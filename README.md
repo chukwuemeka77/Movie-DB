@@ -1,27 +1,4 @@
-React Tutorial
-React Exercise
-React Basic Concepts
-React Components
-React Props
-React Hooks
-React Router
-React Advanced
-React Examples
-React Interview Questions
-React Projects
-Next.js Tutorial
-React Bootstrap
-React Material UI
-React Ant Design
-React Desktop
-React Rebass
-React Blueprint
-JavaScript
-Web Technology
-▲
-Open In App
-Movie Web Application with ReactJS
-Last Updated : 30 Jul, 2024
+
 React Movie APP is a movie web application project that involves creating components to display a list of movies and details about each movie along with a search functionality.
 
 Preview Image of Final Output:
